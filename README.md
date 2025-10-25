@@ -19,6 +19,9 @@ An end-to-end machine learning pipeline for predicting household energy consumpt
 - [Results](#results)
 - [Contributing](#contributing)
 - [License](#license)
+## 🎯 Demo
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/bd29817c-f5d5-45db-be40-4a31eda70728" />
 
 ## 🎯 Overview
 
