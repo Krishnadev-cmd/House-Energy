@@ -1,0 +1,109 @@
+# Python
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+my_venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# AWS
+.aws/
+*.pem
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Node.js (Next.js)
+energy-forecast-app/node_modules/
+energy-forecast-app/.next/
+energy-forecast-app/out/
+energy-forecast-app/build/
+energy-forecast-app/.env.local
+energy-forecast-app/.vercel
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Data files (large datasets)
+*.csv
+*.parquet
+data/
+datasets/
+
+# Model files
+*.joblib
+*.pkl
+*.h5
+*.pt
+*.pth
+model/
+models/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.bak
+*.backup
+
+# Test coverage
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
